@@ -29,8 +29,9 @@ To implement runtime polymorphism using a base class Shape and its subclasses Ci
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: PREM R
-RegisterNumber:  212223240124
+Developed by: NARESH.R
+RegisterNumber: 212223240104
+
 */
 
 import java.util.*;
@@ -110,6 +111,7 @@ public class Main {
 
 ## RESULT:
 The given program has been executed and verfied successfully.
+
 
 
 
