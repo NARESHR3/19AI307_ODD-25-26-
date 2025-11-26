@@ -30,8 +30,8 @@ To develop a Java program that decides whether a vehicle can move or must stop b
   ```
 /*
 Program to implement a conditional statement using Java
-Developed by: PREM R
-RegisterNumber:  212223240124
+Developed by: NARESH.R
+RegisterNumber: 212223240104
 */
 ```
 
@@ -76,6 +76,7 @@ public class prog {
 
 ## RESULT:
 The program successfully determines whether a vehicle can move based on the signal color and controller type using interface-based polymorphism.
+
 
 
 
