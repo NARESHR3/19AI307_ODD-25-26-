@@ -21,8 +21,8 @@ To write a class Rectangle using parameterized constructor and calculate area.
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: PREM R
-RegisterNumber:  212223240124
+Developed by: NARESH.R
+RegisterNumber: 212223240104
 */
 
 
@@ -56,6 +56,7 @@ public class Rectangle {
 
 ## RESULT:
 The given program has been executed and verified successfully
+
 
 
 
