@@ -26,8 +26,8 @@ To calculate the final price paid by different types of customers (Regular and P
  ```
 /*
 Program to implement a Inheritance and Aggregation using Java
-Developed by: PREM R
-RegisterNumber:  212223240124
+Developed by: NARESH.R
+RegisterNumber: 212223240104
 */
 
 
@@ -145,6 +145,7 @@ public class prog {
 
 ## RESULT:
 The given program has been executed and verified successfully.
+
 
 
 
