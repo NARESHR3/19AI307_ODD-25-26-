@@ -26,8 +26,8 @@ To implement a program using conditional statements
  ```
 /*
 Program to implement a conditional statement using Java
-Developed by: MURALI KRISHNA S
-RegisterNumber:  212223230129
+Developed by: PREM R
+RegisterNumber:  212223240124
 */
 
 
@@ -80,5 +80,6 @@ public class main{
 
 ## RESULT:
 The given program has been executed and verified successfully.
+
 
 
