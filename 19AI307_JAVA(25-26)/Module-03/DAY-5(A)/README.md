@@ -17,8 +17,8 @@ To demonstrate accessing an inner class from an outer class in Java.
  ```
 
 Program to implement a InnerClass using Java
-Developed by: PREM R 
-RegisterNumber: 212223240124
+Developed by: NARESH.R
+RegisterNumber: 212223240104
 
 ```
 
@@ -63,6 +63,7 @@ public class Main {
 
 ## RESULT:
 The program successfully accesses and prints data from the inner class using the outer class.
+
 
 
 
