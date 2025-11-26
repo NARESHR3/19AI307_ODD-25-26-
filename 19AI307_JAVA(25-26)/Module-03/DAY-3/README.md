@@ -35,8 +35,9 @@ To implement abstraction and method overriding by creating an abstract Advisor c
  ```
 /*
 Program to implement a Abstraction using Java
-Developed by: PREM R
-RegisterNumber:  212223240124
+Developed by: NARESH.R
+RegisterNumber: 212223240104
+
 */
 
 
@@ -117,5 +118,6 @@ public class Main {
 
 ## RESULT:
 The given program has been executed and verified successfully.
+
 
 
