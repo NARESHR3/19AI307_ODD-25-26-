@@ -24,8 +24,8 @@ To write a method that accepts a string and returns whether it contains only low
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: PREM R
-RegisterNumber:  212223240124
+Developed by: NARESH.R
+RegisterNumber: 212223240104
 */
 
 
@@ -68,6 +68,7 @@ class prog {
 
 ## RESULT:
 The given program has been executed and verified successfully.
+
 
 
 
