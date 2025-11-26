@@ -25,8 +25,8 @@ To implement a Java program to count how many elements in an array are divisible
  ```
 /*
 Program to implement a Array concept using Java
-Developed by: PREM R
-RegisterNumber:  212223240124
+Developed by: NARESH.R
+RegisterNumber: 212223240104
 */
 
 
@@ -65,6 +65,7 @@ public class main{
 
 ## RESULT:
 The given program has been executed and verified successfully.
+
 
 
 
